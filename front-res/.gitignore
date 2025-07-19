@@ -7,18 +7,29 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-node_modules
-dist
-dist-ssr
-*.local
+# Node modules
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+build/  # if using Create React App or other tools
+
+# Environment files
+.env
+.env.*  # catch .env.local, .env.development, etc.
 
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
-.idea
+.idea/
 .DS_Store
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
+
+# Misc
+coverage/  # if using Jest or other test tools
+*.tsbuildinfo  # if using TypeScript
