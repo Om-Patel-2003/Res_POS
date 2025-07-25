@@ -29,8 +29,10 @@ View Image
 Secure payment integration using Razorpay Test Mode for processing online orders.
 
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/3a7826e5-43f5-4fd1-86a2-c97e7bfbabad" />
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/494257ed-5811-41f1-b828-ef8190b0998e" />
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/3a7826e5-43f5-4fd1-86a2-c97e7bfbabad" />
+
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/494257ed-5811-41f1-b828-ef8190b0998e" />
+
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/163afef9-004f-4fe2-afc5-d8a1ce2fbfb5" />
 
 
