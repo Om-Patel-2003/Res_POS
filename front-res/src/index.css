@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* For browser autocomplete highlight */
+input,
+input:focus {
+  background-color: #1f1f1f !important;
+  color: #f5f5f5 !important;
+  caret-color: #f6b100; /* Use your highlight or visible color */
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  -webkit-box-shadow: 0 0 0px 1000px #1f1f1f inset !important;
+  box-shadow: 0 0 0px 1000px #1f1f1f inset !important;
+  -webkit-text-fill-color: #f5f5f5 !important;
+  caret-color: #f6b100 !important;
+  transition: background-color 5000s ease-in-out 0s !important;
+}
